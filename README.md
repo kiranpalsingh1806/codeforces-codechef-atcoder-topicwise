@@ -1,5 +1,5 @@
 # Topicwise Problems for Competitive Programming
-This list contains topicwise problems for Competititve Programming from CodeChef, Codeforces, LeetCode, AtCoder etc.
+CodeChef, Codeforces, AtCoder
 
 - [Topicwise Problems for Competitive Programming](#topicwise-problems-for-competitive-programming)
   - [Binary Search](#binary-search)
@@ -9,11 +9,14 @@ This list contains topicwise problems for Competititve Programming from CodeChef
   - [Count Number of Pairs](#count-number-of-pairs)
   - [Data Structures](#data-structures)
   - [Depth First Search](#depth-first-search)
+  - [Dynamic Programming](#dynamic-programming)
   - [Dijkstra](#dijkstra)
   - [Game](#game)
-  - [GCD](#gcd)
+  - [GCD and LCM](#gcd-and-lcm)
   - [Graphs](#graphs)
+  - [Greedy](#greedy)
   - [Grid](#grid)
+  - [Heaps](#heaps)
   - [Mathematics](#mathematics)
   - [Matrix](#matrix)
   - [Permutation](#permutation)
@@ -57,26 +60,47 @@ This list contains topicwise problems for Competititve Programming from CodeChef
 ## Depth First Search
 1. [Codeforces - Ice Skating](https://codeforces.com/contest/217/problem/A)
 
+## Dynamic Programming
+|Platform|Problem|Difficulty|Solution|
+| ---- | ----------- | ----- | ---- |
+|CodeChef|[Sort The Array](https://www.codechef.com/submit/SORTARRAY)|MEdium|Solution|
+
 ## Dijkstra
 1. [CodeChef - Travelling in The Graph](https://www.codechef.com/submit/TRAVELLING)
 
 ## Game
 1. [CodeChef - Chef and Cook Game](https://www.codechef.com/submit/CCGAME)
 
-## GCD
-|Platform|Problem|Solution|
-| ---- | ----------- | ---- |
-|CodeChef|[Minimum Sum](https://www.codechef.com/START52C/problems/MINSM)|Solution|
+## GCD and LCM
+|Platform|Problem|Difficulty|Solution|
+| ---- | ----------- | ----- | ---- |
+|CodeChef|[Minimum Sum](https://www.codechef.com/START52C/problems/MINSM)|Easy|Solution|
+|CodeChef|[Easy Permutation](https://www.codechef.com/submit/EASYPERM)|Easy|Solution|
 
 ## Graphs
-1. [Codeforces - Permutation Transformation](https://codeforces.com/contest/1490/problem/D)
+|Platform|Problem|Difficulty|Solution|
+| ---- | ----------- | ----- | ---- |
+|Codeforces|[Permutation Transformation](https://codeforces.com/contest/1490/problem/D)|Medium|Solution|
+|CodeChef|[Tree Coloring](https://www.codechef.com/submit/TREECLR)|Medium|Solution|
+
+## Greedy
+|Platform|Problem|Difficulty|Solution|
+| ---- | ----------- | ----- | ---- |
+|CodeChef|[Subtract 12 Operation](https://www.codechef.com/submit/SUB12OP)|Medium|Solution|
 
 ## Grid
 1. [CodeChef - Gritty Grid](https://www.codechef.com/submit/GRITGRID)
 
+## Heaps
+|Platform|Problem|Difficulty|Solution|
+| ---- | ----------- | ----- | ---- |
+|CodeChef|[Array Equality](https://www.codechef.com/submit/ARREQU)|Easy|Solution|
+
 ## Mathematics
-1. [Codeforces - Fedya and Maths](https://codeforces.com/contest/456/problem/B)
-2. [CodeChef - Hello Equation](https://www.codechef.com/submit/HLEQN)
+|Platform|Problem|Difficulty|Solution|
+| ---- | ----------- | ----- | ---- |
+|Codeforces|[Fedya and Maths](https://codeforces.com/contest/456/problem/B)|Easy|Solution|
+|CodeChef|[Hello Equation](https://www.codechef.com/submit/HLEQN)|Easy|Solution|
 
 ## Matrix
 1. [CodeChef - Angled Flip](https://www.codechef.com/submit/AFLIP)
